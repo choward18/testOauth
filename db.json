@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "active": false,
+      "username": "cole"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
